@@ -25,7 +25,7 @@ This repository contains all the resources and materials related to our **Commun
 
 ## 📚 Contents
 
-1. 📊 All Review Presentations (Review 1 & Review 2)  
+1. 📊 All Review Presentations
 2. 🧾 Project Review Documentation  
 3. 🎥 Demonstration Video with Voice Explanation  
 
