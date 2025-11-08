@@ -1,14 +1,44 @@
-# IT1-A1
-This repo contains all the contents related to out CEP
+<p align="center">
+  <img src="Images/banner.png" alt="EduBridge Banner" width="50%">
+</p>
 
+<br>
 
-## Contents :
-1. All reviews ppt
-2. Review
-3. Video with voice
-
-# 🧠 EduBridge
+# 🧠 EduBridge  
 ### _A Low-Bandwidth Virtual Classroom Ecosystem for Rural Education_
+
+---
+
+![License](https://img.shields.io/badge/License-MIT-green.svg) 
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Contributors](https://img.shields.io/badge/Contributors-2-blue)
+![Made with](https://img.shields.io/badge/Made%20with-❤️%20and%20React.js-orange)
+![Backend](https://img.shields.io/badge/Backend-Express.js-yellow)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-lightblue)
+
+---
+
+# 📁 IT1-A1
+This repository contains all the resources and materials related to our **Community Engagement Project (CEP)** — *EduBridge*.
+
+---
+
+## 📚 Contents
+
+1. 📊 All Review Presentations
+2. 🧾 Project Review Documentation  
+3. 🎥 Demonstration Video with Voice Explanation  
+
+---
+
+## 🧭 Table of Contents
+
+1. [Problem Statement](#-problem-statement)  
+2. [Objectives](#-objectives)  
+3. [Proposed Solution](#-proposed-solution)  
+4. [Technology Stack](#-technology-stack)  
+5. [Why MobileNetV2?](#-why-mobilenetv2)  
+6. [Contributors](#-contributors)
 
 ---
 
@@ -77,13 +107,26 @@ It enables **real-time interaction**, **recorded sessions**, and **AI-based enga
 
 ---
 
-## 👥 Contributors
+## 🧾 Project Summary
 
-- **Gaurav Jadhav (SI154)**  
-- **Shreyash Mandlapure (SI167)**  
-
-**Guide:** Mrs. S. P. Vanjari  
-Department of Information Technology  
-Marathwada Mitra Mandal’s College of Engineering, Pune
+| Category | Details |
+|-----------|----------|
+| **Project Type** | Community Engagement Project (CEP) |
+| **Institute** | Marathwada Mitra Mandal’s College of Engineering, Pune |
+| **Department** | Information Technology |
+| **Guide** | Mrs. S. P. Vanjari |
+| **Academic Year** | 2025–26 |
 
 ---
+
+## 👥 Contributors
+
+| Name | Role | Roll No |
+|------|------|------|
+| **Gaurav Jadhav** | Dataset Creation, ML Model Training, Research Documentation | SI154 |
+| **Shreyash Mandlapure** | Frontend & Backend Development, Database Design, UI/UX Documentation | SI167 |
+
+---
+
+⭐ *If you found this project inspiring or helpful, don’t forget to star this repository!* ⭐
+
