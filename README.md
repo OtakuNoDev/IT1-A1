@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Images/images.png" alt="EduBridge Banner" width="100%">
+</p>
+
+<br>
+
+# 🧠 EduBridge  
+### _A Low-Bandwidth Virtual Classroom Ecosystem for Rural Education_
+
+
 # 🧠 EduBridge  
 ### _A Low-Bandwidth Virtual Classroom Ecosystem for Rural Education_
 
