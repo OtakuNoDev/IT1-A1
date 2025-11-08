@@ -7,10 +7,6 @@
 # 🧠 EduBridge  
 ### _A Low-Bandwidth Virtual Classroom Ecosystem for Rural Education_
 
-
-# 🧠 EduBridge  
-### _A Low-Bandwidth Virtual Classroom Ecosystem for Rural Education_
-
 ---
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg) 
