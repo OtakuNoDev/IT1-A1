@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/banner.png" alt="EduBridge Banner" width="100%">
+  <img src="Images/banner.png" alt="EduBridge Banner" width="50%">
 </p>
 
 <br>
