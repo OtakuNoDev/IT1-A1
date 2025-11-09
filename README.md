@@ -121,10 +121,10 @@ It enables **real-time interaction**, **recorded sessions**, and **AI-based enga
 
 ## 👥 Contributors
 
-| Name | Role | Roll No |
-|------|------|------|
-| **Gaurav Jadhav** | Dataset Creation, ML Model Training, Research Documentation | SI154 |
-| **Shreyash Mandlapure** | Frontend & Backend Development, Database Design, UI/UX Documentation | SI167 |
+| Name | Roll No |
+|------|------|
+| **Gaurav Jadhav** | SI154 |
+| **Shreyash Mandlapure** | SI167 |
 
 ---
 
